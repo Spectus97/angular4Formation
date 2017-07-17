@@ -1,0 +1,5 @@
+Créer un pipe : 
+
+1) a-pipe 
+2) remplir le transform
+3) aller dans le module (app.module ou shared-module) => Export + Declaration
